@@ -1,2 +1,2 @@
-# terminal-snake
-A simple snake game.
+# cmd-snake
+A simple snake game in cmd.
